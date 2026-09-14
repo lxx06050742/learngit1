@@ -1,0 +1,2 @@
+This is one test file for git applicaiton.
+Git a distributation software.
