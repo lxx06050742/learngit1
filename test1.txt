@@ -1,3 +1,3 @@
 New remote synchronizaiton file.
 Creating a new branch is quick and simple.
-I am testing none fast-forward merge.
+I am testing none fast-forward merge. This is a diffcult task.
