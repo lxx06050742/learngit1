@@ -1,3 +1,4 @@
 New remote synchronizaiton file.
 Creating a new branch is quick and simple.
-I am testing none fast-forward merge function. This is a diffcult task.
+I am testing none fast-forward merge function. This is a diffcult task. But i would like to try several more times to familiar with the git.
+
